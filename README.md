@@ -16,12 +16,12 @@ npm install @clubedev/pagbank-encrypt-card
 
 ES Modules (Vite, Next, Nuxt, Vue, React)
 ```js
-import { PagbankEncryptCard } from '@clubedev/pagbank-encrypt-card';
+import PagbankEncryptCard from '@clubedev/pagbank-encrypt-card';
 ```
 
 CommonJS (Node tradicional)
 ```js
-const { PagbankEncryptCard } = require('@clubedev/pagbank-encrypt-card');
+const PagbankEncryptCard = require('@clubedev/pagbank-encrypt-card');
 ```
 
 Navegador (via script UMD)
@@ -45,7 +45,7 @@ PagbankEncryptCard.encrypt('PUBLIC_KEY', {
     for (let k in errors) {
         console.log(`[${errors[k]?.code}] - ${errors[k]?.message}`);
     }
-});;
+});
 
 ```
 

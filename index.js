@@ -1,4 +1,4 @@
-export class PagbankEncryptCard {
+export default class PagbankEncryptCard {
     static sdkLoaded = false;
 
     static async encrypt(publicKey, card) {
