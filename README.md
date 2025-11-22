@@ -54,7 +54,7 @@ O primeiro parâmetro é a chave publica gerada no PagBank, segue detalhes de co
 1. Acesse: [Caso não tenha criado, clique aqui](https://developer.pagbank.com.br/reference/criar-chave-publica) ou [Se já criou, clique aqui](https://developer.pagbank.com.br/reference/consultar-chave-publica)
 2. Em **Authorization** coloque **Bearer {seu token gerado no PagBank}**
 3. Clique em **Try It!**
-4. Seu token estará na sessão **RESPONSE** abaixo de **Try It!**
+4. Sua **PUBLIC_KEY** estará na sessão **RESPONSE** abaixo de **Try It!**
 
 O segundo parâmetro é um objeto contendo os dados do cartão:
 
