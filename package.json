@@ -1,6 +1,6 @@
 {
   "name": "@clubedev/pagbank-encrypt-card",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Biblioteca criada para criptografar dados do cartão antes de enviar ao backend",
   "author": "Clube Dev <contato@clubedev.com.br>",
   "license": "MIT",
