@@ -1,25 +1,20 @@
 {
   "name": "@clubedev/pagbank-encrypt-card",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Biblioteca criada para criptografar dados do cartão antes de enviar ao backend",
   "author": "Clube Dev <contato@clubedev.com.br>",
   "license": "MIT",
-
   "main": "dist/pagbank-encrypt-card.umd.js",
   "module": "index.js",
-
   "files": [
     "index.js",
     "dist/"
   ],
-
   "scripts": {
     "build": "rollup -c",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-
   "keywords": [],
-
   "devDependencies": {
     "@rollup/plugin-commonjs": "^29.0.0",
     "@rollup/plugin-node-resolve": "^16.0.3",
