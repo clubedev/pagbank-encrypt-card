@@ -31,8 +31,6 @@ Navegador (via script UMD)
 
 ## 🔐 Como usar
 ```js
-import { PagbankEncryptCard } from '@clubedev/pagbank-encrypt-card';
-
 PagbankEncryptCard.encrypt('PUBLIC_KEY', {
   number: "4111111111111111",
   holder: "JOAO DA SILVA",
