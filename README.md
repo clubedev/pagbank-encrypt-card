@@ -84,3 +84,7 @@ MIT — utilize livremente em projetos comerciais e pessoais.
 ## Suporte
 
 - **Site ClubeDev:** https://clubedev.com.br
+
+---
+
+⌛ Desenvolvido para ser simples, direto e produtivo.
